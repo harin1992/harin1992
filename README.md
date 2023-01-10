@@ -1,8 +1,3 @@
-root = true
+### Мой стек веб-технологий
 
-[*]
-indent_style = tab
-end_of_line = lf
-charset = utf-8
-trim_trailing_whitespace = true
-insert_final_newline = true
+<img src="https://img.shields.io/badge/Python-696969?style=for-the-badge&logo=Python&logoColor=000000"/>
